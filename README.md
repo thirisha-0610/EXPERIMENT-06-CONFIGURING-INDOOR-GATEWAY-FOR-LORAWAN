@@ -120,8 +120,19 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
+# Connecting to the dragino-2e774:
 
+<img width="261" height="290" alt="505583842-f8c39354-56c6-49ef-ba51-ff9462dd80bf" src="https://github.com/user-attachments/assets/6bdb37d1-d185-4f9c-9352-8ffbca9605d5" />
 
+# website Login :
+<img width="1920" height="1200" alt="505582421-52edb850-53bf-4430-a6c3-e1c52c12b4cc" src="https://github.com/user-attachments/assets/5c1c6321-b0cb-4cdf-95df-43850230a972" />
+
+# wifi status :
+<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/f7758c4e-b38b-4599-a14d-a904f46d1a2d" />
+# LORA configuration :
+<img width="1920" height="1080" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/f9fad8be-883a-42d9-8fc9-29f5b5f775ff" />
+# Wifi Access point :
+<img width="1920" height="1200" alt="505583153-d87e177f-cdd2-464f-bdf3-3722fe196f15" src="https://github.com/user-attachments/assets/78e173fd-8622-486a-8ffe-add019e8d754" />
 
 ## Result: 
 The Dragino LPS8 Indoor LoRaWAN Gateway was successfully configured and connected.
